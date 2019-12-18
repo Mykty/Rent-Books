@@ -1,0 +1,3 @@
+# Referenced at /Users/mac/Desktop/Android_Works/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:29
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

@@ -1,0 +1,110 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2490eba4eb42b4d28ab247d70cacbbd2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/src/main/res/values-v16/styles.xml",
+                    "from": {
+                        "startLines": "3,16,11,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "92,593,442,676",
+                        "endLines": "9,16,14,18",
+                        "endColumns": "12,81,12,80",
+                        "endOffsets": "436,670,587,752"
+                    },
+                    "to": {
+                        "startLines": "3,10,11,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,470,551,701",
+                        "endLines": "9,10,14,15",
+                        "endColumns": "12,80,12,79",
+                        "endOffsets": "465,546,696,776"
+                    }
+                },
+                {
+                    "source": "/Users/myktybake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f4913936e6ef8972e92a4a717f476957/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "781",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "949"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/Desktop/Android_Works/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/Desktop/Android_Works/Reading Club/Reading Club App/Reading-Club3/app/src/main/res/values-v16/styles.xml",
+                    "from": {
+                        "startLines": "3,16,11,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "92,593,442,676",
+                        "endLines": "9,16,14,18",
+                        "endColumns": "12,81,12,80",
+                        "endOffsets": "436,670,587,752"
+                    },
+                    "to": {
+                        "startLines": "3,10,11,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,470,551,701",
+                        "endLines": "9,10,14,15",
+                        "endColumns": "12,80,12,79",
+                        "endOffsets": "465,546,696,776"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6d96369376c80ca4adfa8b1c5e76699f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "781",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "949"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0d3f3c50147e2daf4716054e664438/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

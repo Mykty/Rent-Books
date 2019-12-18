@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#a79e8c</color>
+    <color name="bg_row_background">#fa315b</color>
+    <color name="black">#030303</color>
+    <color name="black_grey">#505151</color>
+    <color name="bronze">#dab088</color>
+    <color name="bronze2">#d2bc8f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#CCCCCC</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="description">#a9a9a9</color>
+    <color name="item_name">#535353</color>
+    <color name="light_green">#a5d6a7</color>
+    <color name="light_grey">#e1e1e1</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="orange">#f9a825</color>
+    <color name="pink">#ff5252</color>
+    <color name="red">#e57373</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="yellow">#ef5350</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Folder-ResideMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#e15b4e42</item>
+        <item name="colorPrimaryDark">#e15b4e42</item>
+        <item name="colorAccent">#e15b4e42</item>
+        <item name="android:fontFamily">@font/qbold</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+    <style name="Hei" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="android:fontFamily">@font/qbold</item>
+    </style>
+</resources>

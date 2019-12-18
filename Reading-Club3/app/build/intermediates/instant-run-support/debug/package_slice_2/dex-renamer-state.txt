@@ -1,0 +1,4 @@
+#Fri Jan 04 12:06:10 ALMT 2019
+base.0=/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

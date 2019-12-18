@@ -1,0 +1,96 @@
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/9224b165d49429a185cf77c42c545714/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ccefe11fe0eaa5b2fdd1e508a9f7300a/jars/classes.jar(**.class)
+-injars '/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/library/libs/nineoldandroids-library-2.4.0.jar'(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/1f5f75ede1a137695b443dc9ba3c72d7/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/73ce6a90b6b3c7f3ed6f59fe4000c9d9/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-0.6.0.aar/446537b8cd0e530748eb9823ecfbf231/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/00df770ea039e43a98b373f1eee54633/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/app-rating-2.3.0.aar/abcb702d30ee794ec4b51f7fdd58aa8a/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74357739507175d2bc1d08c936c88b87/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/eafc74c3bf2c27bd4226cdeaeb72a23c/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/2f9a1803c45b0c68c2b7bfddf768bb46/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/e58e5463f8f3ba8c04b2778bf45b090a/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/4b4059df0c6e6fc20533d6d19c959b01/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/8c8ef61b117c92ab8a1991f6fd7bc94e/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/8394a033e9576ab45ff4f51134272f31/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/e9d8f9d84272b7a059b480476510cf1d/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/7d9ff4a48e1867bdbde86b1c3b42c503/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/2726e201832fbac3f8d779d487fd7b58/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/772c45b7a23270332dde35a5221afd59/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/21da577439618fb9611ab44748c89cec/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d78c0900f9fb4536992511ddfdb82143/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/ec64a2cded9b2ccdf3ac17764444d76b/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/cee9bca975956a27b81f25e2554be3fa/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/062ae23556cfe38bddf0bc604c8930aa/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/b94666947b5d61b053517dea901d5350/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/0ccf4dffa46dade88fb394cd232e0e9f/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5a1436644189cb52e055fb67959bc19e/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/34661be42cb57c842a2e2779cee2a9dd/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/carouselview-0.1.5.aar/4b9f910fad8b7c0d7b862620cdd425a0/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/0018c018463e69a4b9a2b5bd40e01fc5/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/f3b88f3c60a70d62ff4f3d2a6c2e2a48/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/2026d9ec99dca52fd42667766e126dbd/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/06dce97ee200646dc7a3d00e00bbaf21/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cfb0f1a753796370ff2dded66da6abde/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82923c422e9cbe25f221ad1baf18468e/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7a6905854364c70d40c168650bd196f5/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/711b956961ba480bd308f4a47f782af2/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c7224d3ef6cb45d0def64c7c93b9b5ee/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83f0907815ae215b68ed9bbbfda29958/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.60/31f1ea280ab4942ed25f91760d7170c41f78d06f/kotlin-stdlib-jdk7-1.2.60.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2862a5d12b94c8c3a9671ddf7ce4bfd6/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.60/391695759d8fc80042c2c11bc19fc6f2787be495/kotlin-stdlib-1.2.60.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e0f29ad30195975b170c26bec98c1f6f/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/359b27636013476c40c73376c98f156d/jars/classes.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d95e6419da840e672342e5d4348f0bdd1d58b84d/kotlin-stdlib-common-1.2.60.jar(**.class)
+-injars '/private/var/folders/7v/vm9p68sn12s9bml6fpc3y7sm0000gq/T/AppTranslocation/2CCD13FF-8FEC-42A3-8F03-9A3BE3CDCBB6/d/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar'(**.class)
+-injars /Users/myktybake/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar(**.class)
+-injars /Users/myktybake/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/160bcf57fa6595f30c1391d14897474e/jars/classes.jar(**.class)
+-injars '/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/library/build/intermediates/intermediate-jars/debug/classes.jar'(**.class)
+-injars '/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/classes/debug'(**.class)
+-outjars '/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /Users/myktybake/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration '/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/multi-dex/debug/components.flags'
+
+
+# Referenced at /Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:29
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

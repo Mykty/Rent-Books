@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/myktybake/Desktop/Reading Club/Reading Club App/Reading-Club3/library/build/intermediates/bundles/debug/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "239"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "/Users/myktybake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74357739507175d2bc1d08c936c88b87/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "478"
+                    }
+                },
+                {
+                    "source": "/Users/myktybake/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83f0907815ae215b68ed9bbbfda29958/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
